@@ -1,0 +1,18 @@
+.logo {
+    width: 15rem;
+}
+
+.nav-link {
+    color: red;
+    transition-duration: 0.5s;
+}
+
+.nav-link:hover {
+    
+    color: rgb(0, 110, 200);
+}
+
+body {
+    min-height: 100vh;
+    background-image: linear-gradient(#D2E0DA, #abb8b2);
+}
